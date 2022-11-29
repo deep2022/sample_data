@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "charges": "Annual Interest Rate (On Reducing Balance)",
+      "rate": "24%"
+    },
+    {
+      "charges": "Interest Type",
+      "rate": "Fixed"
+    },
+    {
+      "charges": "Periodicity of Interest Compounding",
+      "rate": "Monthly"
+    },
+    {
+      "charges": "Repayment frequency by the borrower",
+      "rate": "Monthly"
+    },
+    {
+      "charges": "Processing Fees",
+      "rate": "2% on Loan Amount + 18% GST"
+    },
+    {
+      "charges": "Stamp Duty",
+      "rate": "As per Maharashtra's Stamp Duty Act"
+    },
+    {
+      "charges": "Penal interest (per annum)",
+      "rate": "24% p.a."
+    },
+    {
+      "charges": "Foreclosure charges",
+      "rate": "4% on Principal Outstanding"
+    },
+    {
+      "charges": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan",
+      "rate": "Upto 3 days from Disbursement Date of Loan"
+    },
+    {
+      "charges": "APR* (will change w.r.t loan amount)",
+      "rate": "33%"
+    },
+    {
+      "charges": "Name, designation, address and phone number of nodal grievance redressal officer designated specifically to deal with FinTech/ digital lending related complaints/ issues",
+      "rate": "First Level - Nodal Officer (nodal.officer@axisbank.com) Second Level - Principal Nodal Officer (PNO@axisbank.com) Contact no – 1800 419 0068"
+    }
+  ]
+}
