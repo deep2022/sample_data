@@ -226,16 +226,6 @@
       },
       {
         "charges": {
-         "en": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan",
-         "hi": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan"
-        },
-        "rate": {
-         "en": "Upto 3 days from Disbursement Date of Loan",
-         "hi": "Upto 3 days from Disbursement Date of Loan"
-         }
-      },
-      {
-        "charges": {
          "en": "APR* (will change w.r.t loan amount)",
          "hi": "APR* (will change w.r.t loan amount)"
         },
@@ -243,6 +233,16 @@
          "en": "33%",
          "hi": "33%"
         }
+      },
+      {
+        "charges": {
+         "en": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan",
+         "hi": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan"
+        },
+        "rate": {
+         "en": "Upto 3 days from Disbursement Date of Loan",
+         "hi": "Upto 3 days from Disbursement Date of Loan"
+         }
       },
       {
         "charges": {
