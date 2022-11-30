@@ -2,7 +2,7 @@
    "data": {
       "loan_home_screen_header": {
          "loanValue": {
-            "en": "â‚¹1 lakh",
+            "en": "â‚¹75,000",
             "hi": "â‚¹1 à¤²à¤¾à¤–"
          },
          "loanHeading1": {
@@ -14,7 +14,7 @@
             "hi": "à¤…à¤ªà¤¨à¥‡ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯ à¤•à¥‡ à¤²à¤¿à¤!"
          },
          "loanSubheading1": {
-            "en": "Get instant approval* in less than ",
+            "en": "Get instant approval* digitally within ",
             "hi": "à¤¸à¥‡ à¤•à¤® à¤®à¥‡à¤‚ à¤¤à¤¤à¥à¤•à¤¾à¤² à¤¸à¥à¤µà¥€à¤•à¥ƒà¤¤à¤¿* à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤•à¤°à¥‡à¤‚ "
          },
          "loanSubheading2": {
@@ -22,14 +22,14 @@
             "hi": "5 à¤®à¤¿à¤¨à¤Ÿ "
          },
          "loanSubheading3": {
-            "en": ", through completely digital process!",
+            "en": ", with PAN and Aadhar verification",
             "hi": ", à¤ªà¥‚à¤°à¥€ à¤¤à¤°à¤¹ à¤¸à¥‡ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¥à¤°à¤•à¥à¤°à¤¿à¤¯à¤¾ à¤•à¥‡ à¤®à¤¾à¤§à¥à¤¯à¤® à¤¸à¥‡!"
          },
          "image": "mobile/images/mca/v2/mca_landing.png"
       },
       "loan_home_screen_benefits": {
          "heading": {
-            "en": "Freecharge Business Loan Benefits",
+            "en": "Freecharge Business Loan Features",
             "hi": "à¤«à¥à¤°à¥€à¤šà¤¾à¤°à¥à¤œ à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤²à¥‹à¤¨ à¤²à¤¾à¤­"
          },
          "list": [
