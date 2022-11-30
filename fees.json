@@ -79,7 +79,7 @@
                   "en": "No collateral required",
                   "hi": "गिरवी की आवश्यकता नहीं है"
                },
-               "image": "mobile/images/mca/v2/benefits_balance_account.png"
+               "image": "mobile/images/mca/v2/benefits_zero_collateral.png"
             },
             {
                "id": "5",
@@ -91,7 +91,7 @@
                   "en": "KYC verification with Pan & Aadhaar",
                   "hi": "पैन और आधार के साथ केवाईसी सत्यापन"
                },
-               "image": "mobile/images/mca/v2/benefits_balance_account.png"
+               "image": "mobile/images/mca/v2/benefits_easy_application.png"
             },
             {
                "id": "6",
@@ -103,7 +103,7 @@
                   "en": "6, 9 & 12 months",
                   "hi": "6, 9 और 12 महीने"
                },
-               "image": "mobile/images/mca/v2/benefits_balance_account.png"
+               "image": "mobile/images/mca/v2/benefits_tenure.png"
             }
          ]
       },
