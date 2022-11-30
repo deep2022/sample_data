@@ -2,46 +2,46 @@
    "data": {
       "loan_home_screen_header": {
          "loanValue": {
-            "en": "â‚¹75,000",
-            "hi": "â‚¹1 à¤²à¤¾à¤–"
+            "en": "₹1 lakh",
+            "hi": "₹1 लाख"
          },
          "loanHeading1": {
             "en": "Get hassle free loan upto ",
-            "hi": "à¤¤à¤• à¤ªà¤°à¥‡à¤¶à¤¾à¤¨à¥€ à¤®à¥à¤•à¥à¤¤ à¤‹à¤£ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤•à¤°à¥‡à¤‚"
+            "hi": "तक परेशानी मुक्त ऋण प्राप्त करें"
          },
          "loanHeading2": {
             "en": "for your business!",
-            "hi": "à¤…à¤ªà¤¨à¥‡ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯ à¤•à¥‡ à¤²à¤¿à¤!"
+            "hi": "अपने व्यवसाय के लिए!"
          },
          "loanSubheading1": {
-            "en": "Get instant approval* digitally within ",
-            "hi": "à¤¸à¥‡ à¤•à¤® à¤®à¥‡à¤‚ à¤¤à¤¤à¥à¤•à¤¾à¤² à¤¸à¥à¤µà¥€à¤•à¥ƒà¤¤à¤¿* à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤•à¤°à¥‡à¤‚ "
+            "en": "Get instant approval* in less than ",
+            "hi": "से कम में तत्काल स्वीकृति* प्राप्त करें "
          },
          "loanSubheading2": {
             "en": "5 minutes",
-            "hi": "5 à¤®à¤¿à¤¨à¤Ÿ "
+            "hi": "5 मिनट "
          },
          "loanSubheading3": {
-            "en": ", with PAN and Aadhar verification",
-            "hi": ", à¤ªà¥‚à¤°à¥€ à¤¤à¤°à¤¹ à¤¸à¥‡ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¥à¤°à¤•à¥à¤°à¤¿à¤¯à¤¾ à¤•à¥‡ à¤®à¤¾à¤§à¥à¤¯à¤® à¤¸à¥‡!"
+            "en": ", through completely digital process!",
+            "hi": ", पूरी तरह से डिजिटल प्रक्रिया के माध्यम से!"
          },
          "image": "mobile/images/mca/v2/mca_landing.png"
       },
       "loan_home_screen_benefits": {
          "heading": {
-            "en": "Freecharge Business Loan Features",
-            "hi": "à¤«à¥à¤°à¥€à¤šà¤¾à¤°à¥à¤œ à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤²à¥‹à¤¨ à¤²à¤¾à¤­"
+            "en": "Freecharge Business Loan Benefits",
+            "hi": "फ्रीचार्ज बिज़नेस लोन लाभ"
          },
          "list": [
             {
                "id": "1",
                "title": {
                   "en": "Low Interest Rates",
-                  "hi": "à¤•à¤® à¤¬à¥à¤¯à¤¾à¤œ à¤¦à¤°"
+                  "hi": "कम ब्याज दर"
                },
                "description": {
                   "en": "starting at 1.02% per month.",
-                  "hi": "à¤ªà¥à¤°à¤¤à¤¿ à¤®à¤¾à¤¹ 1.02% à¤¸à¥‡ à¤¶à¥à¤°à¥‚à¥¤"
+                  "hi": "प्रति माह 1.02% से शुरू।"
                },
                "image": "mobile/images/mca/v2/benefits_low_interest_rates.png"
             },
@@ -49,11 +49,11 @@
                "id": "2",
                "title": {
                   "en": "Daily Repayments",
-                  "hi": "à¤¦à¥ˆà¤¨à¤¿à¤• à¤šà¥à¤•à¥Œà¤¤à¥€"
+                  "hi": "दैनिक चुकौती"
                },
                "description": {
                   "en": "25 Daily Instalments per month",
-                  "hi": "25 à¤¦à¥ˆà¤¨à¤¿à¤• à¤•à¤¿à¤¶à¥à¤¤ à¤ªà¥à¤°à¤¤à¤¿ à¤®à¤¾à¤¹"
+                  "hi": "25 दैनिक किश्त प्रति माह"
                },
                "image": "mobile/images/mca/v2/benefits_daily_repayments.png"
             },
@@ -61,11 +61,11 @@
                "id": "3",
                "title": {
                   "en": "0 Balance Account",
-                  "hi": "0 à¤¶à¥‡à¤· à¤–à¤¾à¤¤à¤¾"
+                  "hi": "0 शेष खाता"
                },
                "description": {
                   "en": "No minimum balance required",
-                  "hi": "à¤•à¥‹à¤ˆ à¤¨à¥à¤¯à¥‚à¤¨à¤¤à¤® à¤¶à¥‡à¤·à¤°à¤¾à¤¶à¤¿ à¤•à¥€ à¤†à¤µà¤¶à¥à¤¯à¤•à¤¤à¤¾ à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆ"
+                  "hi": "कोई न्यूनतम शेषराशि की आवश्यकता नहीं है"
                },
                "image": "mobile/images/mca/v2/benefits_balance_account.png"
             }
@@ -74,18 +74,18 @@
       "loan_home_screen_process": {
          "heading": {
             "en": "Easy Application Process",
-            "hi": "à¤†à¤¸à¤¾à¤¨ à¤†à¤µà¥‡à¤¦à¤¨ à¤ªà¥à¤°à¤•à¥à¤°à¤¿à¤¯à¤¾"
+            "hi": "आसान आवेदन प्रक्रिया"
          },
          "list": [
             {
                "id": "1",
                "title": {
                   "en": "KYC verification with PAN & Aadhaar",
-                  "hi": "à¤ªà¥ˆà¤¨ à¤”à¤° à¤†à¤§à¤¾à¤° à¤•à¥‡ à¤¸à¤¾à¤¥ à¤•à¥‡à¤µà¤¾à¤ˆà¤¸à¥€ à¤¸à¤¤à¥à¤¯à¤¾à¤ªà¤¨"
+                  "hi": "पैन और आधार के साथ केवाईसी सत्यापन"
                },
                "description": {
                   "en": "PAN & Aadhaar number required",
-                  "hi": "à¤ªà¥ˆà¤¨ à¤”à¤° à¤†à¤§à¤¾à¤° à¤¨à¤‚à¤¬à¤° à¤œà¤°à¥‚à¤°à¥€"
+                  "hi": "पैन और आधार नंबर जरूरी"
                },
                "image": "mobile/images/mca/v2/mca_icons_step_1.png"
             },
@@ -93,11 +93,11 @@
                "id": "2",
                "title": {
                   "en": "Personal profile submission",
-                  "hi": "à¤µà¥à¤¯à¤•à¥à¤¤à¤¿à¤—à¤¤ à¤ªà¥à¤°à¥‹à¤«à¤¼à¤¾à¤‡à¤² à¤¸à¤¬à¤®à¤¿à¤¶à¤¨"
+                  "hi": "व्यक्तिगत प्रोफ़ाइल सबमिशन"
                },
                "description": {
                   "en": "Provide your details",
-                  "hi": "à¤…à¤ªà¤¨à¤¾ à¤µà¤¿à¤µà¤°à¤£ à¤ªà¥à¤°à¤¦à¤¾à¤¨ à¤•à¤°à¥‡à¤‚"
+                  "hi": "अपना विवरण प्रदान करें"
                },
                "image": "mobile/images/mca/v2/mca_icons_step_2.png"
             },
@@ -105,7 +105,7 @@
                "id": "3",
                "title": {
                   "en": "Choose Loan Amount & Tenure",
-                  "hi": "à¤‹à¤£ à¤°à¤¾à¤¶à¤¿ à¤”à¤° à¤•à¤¾à¤°à¥à¤¯à¤•à¤¾à¤² à¤šà¥à¤¨à¥‡à¤‚"
+                  "hi": "ऋण राशि और कार्यकाल चुनें"
                },
                "description": {
                   "en": "",
@@ -117,11 +117,11 @@
                "id": "4",
                "title": {
                   "en": "Video Kyc",
-                  "hi": "à¤µà¥€à¤¡à¤¿à¤¯à¥‹ à¤•à¥‡à¤µà¤¾à¤ˆà¤¸à¥€"
+                  "hi": "वीडियो केवाईसी"
                },
                "description": {
                   "en": "Complete your KYC with PAN card",
-                  "hi": "à¤ªà¥ˆà¤¨ à¤•à¤¾à¤°à¥à¤¡ à¤¸à¥‡ à¤…à¤ªà¤¨à¤¾ à¤•à¥‡à¤µà¤¾à¤ˆà¤¸à¥€ à¤ªà¥‚à¤°à¤¾ à¤•à¤°à¥‡à¤‚"
+                  "hi": "पैन कार्ड से अपना केवाईसी पूरा करें"
                },
                "image": "mobile/images/mca/v2/mca_icons_step_4.png"
             }
@@ -129,131 +129,19 @@
       },
       "loan_home_screen_info_your": {
          "en": "Your",
-         "hi": "à¤†à¤ªà¤•à¤¾"
+         "hi": "आपका"
       },
       "loan_home_screen_info": {
          "en": "are required for vkyc. Please keep these documents with you",
-         "hi": "à¤µà¥€à¤•à¥‡à¤µà¤¾à¤ˆà¤¸à¥€  à¤•à¥‡ à¤²à¤¿à¤ à¤†à¤µà¤¶à¥à¤¯à¤• à¤¹à¥ˆà¤‚à¥¤ à¤•à¥ƒà¤ªà¤¯à¤¾ à¤‡à¤¨ à¤¦à¤¸à¥à¤¤à¤¾à¤µà¥‡à¤œà¥‹à¤‚ à¤•à¥‹ à¤…à¤ªà¤¨à¥‡ à¤ªà¤¾à¤¸ à¤°à¤–à¥‡à¤‚"
+         "hi": "वीकेवाईसी  के लिए आवश्यक हैं। कृपया इन दस्तावेजों को अपने पास रखें"
       },
       "loan_home_screen_info_doc": {
          "en": "Aadhaar Card & PAN Card",
-         "hi": "à¤†à¤§à¤¾à¤° à¤•à¤¾à¤°à¥à¤¡ à¤”à¤° à¤ªà¥ˆà¤¨ à¤•à¤¾à¤°à¥à¤¡"
+         "hi": "आधार कार्ड और पैन कार्ड"
       },
       "tnc": {
          "en": "*terms and conditions applied",
-         "hi": "*à¤¨à¤¿à¤¯à¤® à¤”à¤° à¤¶à¤°à¥à¤¤à¥‡à¤‚ à¤²à¤¾à¤—à¥‚"
-      },
-     "fees_and_charges": [
-      {
-        "charges": {
-         "en": "Annual Interest Rate (On Reducing Balance)",
-         "hi": "Annual Interest Rate (On Reducing Balance)"
-         },
-        "rate": {
-         "en": "24%",
-         "hi": "24%"
-         }
-      },
-      {
-        "charges": {
-         "en": "Interest Type",
-         "hi": "Interest Type"
-         },
-        "rate": {
-         "en":"Fixed",
-         "hi":"Fixed"
-        }
-      },
-      {
-        "charges": {
-         "en": "Periodicity of Interest Compounding",
-         "hi": "Periodicity of Interest Compounding"
-        },
-        "rate": {
-         "en": "Monthly",
-         "hi": "Monthly"
-        }
-      },
-      {
-        "charges": {
-         "en": "Repayment frequency by the borrower",
-         "hi": "Repayment frequency by the borrower"
-        },
-        "rate": {
-         "en": "Monthly",
-         "hi": "Monthly"
-        }
-      },
-      {
-        "charges": {
-         "en": "Processing Fees",
-         "hi": "Processing Fees"
-        },
-        "rate": {
-         "en": "2% on Loan Amount + 18% GST",
-         "hi": "2% on Loan Amount + 18% GST"
-        }
-      },
-      {
-        "charges": {
-         "en": "Stamp Duty",
-         "hi": "Stamp Duty"
-        },
-        "rate": {
-         "en": "As per Maharashtra's Stamp Duty Act",
-         "hi": "As per Maharashtra's Stamp Duty Act"
-         }
-      },
-      {
-        "charges": {
-         "en": "Penal interest (per annum)",
-         "hi": "Penal interest (per annum)"
-        },
-        "rate": {
-         "en": "24% p.a.",
-         "hi": "24% p.a."
-         }
-      },
-      {
-        "charges": {
-         "en": "Foreclosure charges",
-         "hi": "Foreclosure charges"
-        },
-        "rate": {
-         "en": "4% on Principal Outstanding",
-         "hi": "4% on Principal Outstanding"
-         }
-      },
-      {
-        "charges": {
-         "en": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan",
-         "hi": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan"
-        },
-        "rate": {
-         "en": "Upto 3 days from Disbursement Date of Loan",
-         "hi": "Upto 3 days from Disbursement Date of Loan"
-         }
-      },
-      {
-        "charges": {
-         "en": "APR* (will change w.r.t loan amount)",
-         "hi": "APR* (will change w.r.t loan amount)"
-        },
-        "rate": {
-         "en": "33%",
-         "hi": "33%"
-        }
-      },
-      {
-        "charges": {
-         "en": "Name, designation, address and phone number of nodal grievance redressal officer designated specifically to deal with FinTech/ digital lending related complaints/ issues",
-         "hi": "Name, designation, address and phone number of nodal grievance redressal officer designated specifically to deal with FinTech/ digital lending related complaints/ issues"
-        },
-        "rate": {
-         "en": "First Level - Nodal Officer (nodal.officer@axisbank.com) Second Level - Principal Nodal Officer (PNO@axisbank.com) Contact no – 1800 419 0068",
-         "hi": "First Level - Nodal Officer (nodal.officer@axisbank.com) Second Level - Principal Nodal Officer (PNO@axisbank.com) Contact no – 1800 419 0068"
-        }
+         "hi": "*नियम और शर्तें लागू"
       }
-    ]
    }
 }
