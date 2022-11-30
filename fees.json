@@ -1,48 +1,193 @@
 {
-  "data": [
-    {
-      "charges": "Annual Interest Rate (On Reducing Balance)",
-      "rate": "24%"
-    },
-    {
-      "charges": "Interest Type",
-      "rate": "Fixed"
-    },
-    {
-      "charges": "Periodicity of Interest Compounding",
-      "rate": "Monthly"
-    },
-    {
-      "charges": "Repayment frequency by the borrower",
-      "rate": "Monthly"
-    },
-    {
-      "charges": "Processing Fees",
-      "rate": "2% on Loan Amount + 18% GST"
-    },
-    {
-      "charges": "Stamp Duty",
-      "rate": "As per Maharashtra's Stamp Duty Act"
-    },
-    {
-      "charges": "Penal interest (per annum)",
-      "rate": "24% p.a."
-    },
-    {
-      "charges": "Foreclosure charges",
-      "rate": "4% on Principal Outstanding"
-    },
-    {
-      "charges": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan",
-      "rate": "Upto 3 days from Disbursement Date of Loan"
-    },
-    {
-      "charges": "APR* (will change w.r.t loan amount)",
-      "rate": "33%"
-    },
-    {
-      "charges": "Name, designation, address and phone number of nodal grievance redressal officer designated specifically to deal with FinTech/ digital lending related complaints/ issues",
-      "rate": "First Level - Nodal Officer (nodal.officer@axisbank.com) Second Level - Principal Nodal Officer (PNO@axisbank.com) Contact no – 1800 419 0068"
-    }
-  ]
+   "data": {
+      "loan_home_screen_header": {
+         "loanValue": {
+            "en": "â‚¹1 lakh",
+            "hi": "â‚¹1 à¤²à¤¾à¤–"
+         },
+         "loanHeading1": {
+            "en": "Get hassle free loan upto ",
+            "hi": "à¤¤à¤• à¤ªà¤°à¥‡à¤¶à¤¾à¤¨à¥€ à¤®à¥à¤•à¥à¤¤ à¤‹à¤£ à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤•à¤°à¥‡à¤‚"
+         },
+         "loanHeading2": {
+            "en": "for your business!",
+            "hi": "à¤…à¤ªà¤¨à¥‡ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯ à¤•à¥‡ à¤²à¤¿à¤!"
+         },
+         "loanSubheading1": {
+            "en": "Get instant approval* in less than ",
+            "hi": "à¤¸à¥‡ à¤•à¤® à¤®à¥‡à¤‚ à¤¤à¤¤à¥à¤•à¤¾à¤² à¤¸à¥à¤µà¥€à¤•à¥ƒà¤¤à¤¿* à¤ªà¥à¤°à¤¾à¤ªà¥à¤¤ à¤•à¤°à¥‡à¤‚ "
+         },
+         "loanSubheading2": {
+            "en": "5 minutes",
+            "hi": "5 à¤®à¤¿à¤¨à¤Ÿ "
+         },
+         "loanSubheading3": {
+            "en": ", through completely digital process!",
+            "hi": ", à¤ªà¥‚à¤°à¥€ à¤¤à¤°à¤¹ à¤¸à¥‡ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¥à¤°à¤•à¥à¤°à¤¿à¤¯à¤¾ à¤•à¥‡ à¤®à¤¾à¤§à¥à¤¯à¤® à¤¸à¥‡!"
+         },
+         "image": "mobile/images/mca/v2/mca_landing.png"
+      },
+      "loan_home_screen_benefits": {
+         "heading": {
+            "en": "Freecharge Business Loan Benefits",
+            "hi": "à¤«à¥à¤°à¥€à¤šà¤¾à¤°à¥à¤œ à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤²à¥‹à¤¨ à¤²à¤¾à¤­"
+         },
+         "list": [
+            {
+               "id": "1",
+               "title": {
+                  "en": "Low Interest Rates",
+                  "hi": "à¤•à¤® à¤¬à¥à¤¯à¤¾à¤œ à¤¦à¤°"
+               },
+               "description": {
+                  "en": "starting at 1.02% per month.",
+                  "hi": "à¤ªà¥à¤°à¤¤à¤¿ à¤®à¤¾à¤¹ 1.02% à¤¸à¥‡ à¤¶à¥à¤°à¥‚à¥¤"
+               },
+               "image": "mobile/images/mca/v2/benefits_low_interest_rates.png"
+            },
+            {
+               "id": "2",
+               "title": {
+                  "en": "Daily Repayments",
+                  "hi": "à¤¦à¥ˆà¤¨à¤¿à¤• à¤šà¥à¤•à¥Œà¤¤à¥€"
+               },
+               "description": {
+                  "en": "25 Daily Instalments per month",
+                  "hi": "25 à¤¦à¥ˆà¤¨à¤¿à¤• à¤•à¤¿à¤¶à¥à¤¤ à¤ªà¥à¤°à¤¤à¤¿ à¤®à¤¾à¤¹"
+               },
+               "image": "mobile/images/mca/v2/benefits_daily_repayments.png"
+            },
+            {
+               "id": "3",
+               "title": {
+                  "en": "0 Balance Account",
+                  "hi": "0 à¤¶à¥‡à¤· à¤–à¤¾à¤¤à¤¾"
+               },
+               "description": {
+                  "en": "No minimum balance required",
+                  "hi": "à¤•à¥‹à¤ˆ à¤¨à¥à¤¯à¥‚à¤¨à¤¤à¤® à¤¶à¥‡à¤·à¤°à¤¾à¤¶à¤¿ à¤•à¥€ à¤†à¤µà¤¶à¥à¤¯à¤•à¤¤à¤¾ à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆ"
+               },
+               "image": "mobile/images/mca/v2/benefits_balance_account.png"
+            }
+         ]
+      },
+      "loan_home_screen_process": {
+         "heading": {
+            "en": "Easy Application Process",
+            "hi": "à¤†à¤¸à¤¾à¤¨ à¤†à¤µà¥‡à¤¦à¤¨ à¤ªà¥à¤°à¤•à¥à¤°à¤¿à¤¯à¤¾"
+         },
+         "list": [
+            {
+               "id": "1",
+               "title": {
+                  "en": "KYC verification with PAN & Aadhaar",
+                  "hi": "à¤ªà¥ˆà¤¨ à¤”à¤° à¤†à¤§à¤¾à¤° à¤•à¥‡ à¤¸à¤¾à¤¥ à¤•à¥‡à¤µà¤¾à¤ˆà¤¸à¥€ à¤¸à¤¤à¥à¤¯à¤¾à¤ªà¤¨"
+               },
+               "description": {
+                  "en": "PAN & Aadhaar number required",
+                  "hi": "à¤ªà¥ˆà¤¨ à¤”à¤° à¤†à¤§à¤¾à¤° à¤¨à¤‚à¤¬à¤° à¤œà¤°à¥‚à¤°à¥€"
+               },
+               "image": "mobile/images/mca/v2/mca_icons_step_1.png"
+            },
+            {
+               "id": "2",
+               "title": {
+                  "en": "Personal profile submission",
+                  "hi": "à¤µà¥à¤¯à¤•à¥à¤¤à¤¿à¤—à¤¤ à¤ªà¥à¤°à¥‹à¤«à¤¼à¤¾à¤‡à¤² à¤¸à¤¬à¤®à¤¿à¤¶à¤¨"
+               },
+               "description": {
+                  "en": "Provide your details",
+                  "hi": "à¤…à¤ªà¤¨à¤¾ à¤µà¤¿à¤µà¤°à¤£ à¤ªà¥à¤°à¤¦à¤¾à¤¨ à¤•à¤°à¥‡à¤‚"
+               },
+               "image": "mobile/images/mca/v2/mca_icons_step_2.png"
+            },
+            {
+               "id": "3",
+               "title": {
+                  "en": "Choose Loan Amount & Tenure",
+                  "hi": "à¤‹à¤£ à¤°à¤¾à¤¶à¤¿ à¤”à¤° à¤•à¤¾à¤°à¥à¤¯à¤•à¤¾à¤² à¤šà¥à¤¨à¥‡à¤‚"
+               },
+               "description": {
+                  "en": "",
+                  "hi": ""
+               },
+               "image": "mobile/images/mca/v2/mca_icons_step_3.png"
+            },
+            {
+               "id": "4",
+               "title": {
+                  "en": "Video Kyc",
+                  "hi": "à¤µà¥€à¤¡à¤¿à¤¯à¥‹ à¤•à¥‡à¤µà¤¾à¤ˆà¤¸à¥€"
+               },
+               "description": {
+                  "en": "Complete your KYC with PAN card",
+                  "hi": "à¤ªà¥ˆà¤¨ à¤•à¤¾à¤°à¥à¤¡ à¤¸à¥‡ à¤…à¤ªà¤¨à¤¾ à¤•à¥‡à¤µà¤¾à¤ˆà¤¸à¥€ à¤ªà¥‚à¤°à¤¾ à¤•à¤°à¥‡à¤‚"
+               },
+               "image": "mobile/images/mca/v2/mca_icons_step_4.png"
+            }
+         ]
+      },
+      "loan_home_screen_info_your": {
+         "en": "Your",
+         "hi": "à¤†à¤ªà¤•à¤¾"
+      },
+      "loan_home_screen_info": {
+         "en": "are required for vkyc. Please keep these documents with you",
+         "hi": "à¤µà¥€à¤•à¥‡à¤µà¤¾à¤ˆà¤¸à¥€  à¤•à¥‡ à¤²à¤¿à¤ à¤†à¤µà¤¶à¥à¤¯à¤• à¤¹à¥ˆà¤‚à¥¤ à¤•à¥ƒà¤ªà¤¯à¤¾ à¤‡à¤¨ à¤¦à¤¸à¥à¤¤à¤¾à¤µà¥‡à¤œà¥‹à¤‚ à¤•à¥‹ à¤…à¤ªà¤¨à¥‡ à¤ªà¤¾à¤¸ à¤°à¤–à¥‡à¤‚"
+      },
+      "loan_home_screen_info_doc": {
+         "en": "Aadhaar Card & PAN Card",
+         "hi": "à¤†à¤§à¤¾à¤° à¤•à¤¾à¤°à¥à¤¡ à¤”à¤° à¤ªà¥ˆà¤¨ à¤•à¤¾à¤°à¥à¤¡"
+      },
+      "tnc": {
+         "en": "*terms and conditions applied",
+         "hi": "*à¤¨à¤¿à¤¯à¤® à¤”à¤° à¤¶à¤°à¥à¤¤à¥‡à¤‚ à¤²à¤¾à¤—à¥‚"
+      },
+     "fees_and_charges": [
+      {
+        "charges": "Annual Interest Rate (On Reducing Balance)",
+        "rate": "24%"
+      },
+      {
+        "charges": "Interest Type",
+        "rate": "Fixed"
+      },
+      {
+        "charges": "Periodicity of Interest Compounding",
+        "rate": "Monthly"
+      },
+      {
+        "charges": "Repayment frequency by the borrower",
+        "rate": "Monthly"
+      },
+      {
+        "charges": "Processing Fees",
+        "rate": "2% on Loan Amount + 18% GST"
+      },
+      {
+        "charges": "Stamp Duty",
+        "rate": "As per Maharashtra's Stamp Duty Act"
+      },
+      {
+        "charges": "Penal interest (per annum)",
+        "rate": "24% p.a."
+      },
+      {
+        "charges": "Foreclosure charges",
+        "rate": "4% on Principal Outstanding"
+      },
+      {
+        "charges": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan",
+        "rate": "Upto 3 days from Disbursement Date of Loan"
+      },
+      {
+        "charges": "APR* (will change w.r.t loan amount)",
+        "rate": "33%"
+      },
+      {
+        "charges": "Name, designation, address and phone number of nodal grievance redressal officer designated specifically to deal with FinTech/ digital lending related complaints/ issues",
+        "rate": "First Level - Nodal Officer (nodal.officer@axisbank.com) Second Level - Principal Nodal Officer (PNO@axisbank.com) Contact no – 1800 419 0068"
+      }
+    ]
+   }
 }
