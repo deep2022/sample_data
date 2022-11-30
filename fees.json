@@ -2,8 +2,8 @@
    "data": {
       "loan_home_screen_header": {
          "loanValue": {
-            "en": "₹1 lakh",
-            "hi": "₹1 लाख"
+            "en": "₹75,000",
+            "hi": "₹75,000"
          },
          "loanHeading1": {
             "en": "Get hassle free loan upto ",
@@ -14,23 +14,23 @@
             "hi": "अपने व्यवसाय के लिए!"
          },
          "loanSubheading1": {
-            "en": "Get instant approval* in less than ",
-            "hi": "से कम में तत्काल स्वीकृति* प्राप्त करें "
+            "en": "Get instant approval digitally within ",
+            "hi": "के भीतर डिजिटल रूप से तत्काल स्वीकृति प्राप्त करें "
          },
          "loanSubheading2": {
             "en": "5 minutes",
             "hi": "5 मिनट "
          },
          "loanSubheading3": {
-            "en": ", through completely digital process!",
-            "hi": ", पूरी तरह से डिजिटल प्रक्रिया के माध्यम से!"
+            "en": ", with PAN and Aadhar verification",
+            "hi": ", पैन और आधार सत्यापन के साथ"
          },
          "image": "mobile/images/mca/v2/mca_landing.png"
       },
       "loan_home_screen_benefits": {
          "heading": {
-            "en": "Freecharge Business Loan Benefits",
-            "hi": "फ्रीचार्ज बिज़नेस लोन लाभ"
+            "en": "Freecharge Business Loan Features",
+            "hi": "फ्रीचार्ज बिजनेस लोन की विशेषताएं"
          },
          "list": [
             {
@@ -142,6 +142,118 @@
       "tnc": {
          "en": "*terms and conditions applied",
          "hi": "*नियम और शर्तें लागू"
+      },
+      "fees_and_charges": [
+      {
+        "charges": {
+         "en": "Annual Interest Rate (On Reducing Balance)",
+         "hi": "Annual Interest Rate (On Reducing Balance)"
+         },
+        "rate": {
+         "en": "24%",
+         "hi": "24%"
+         }
+      },
+      {
+        "charges": {
+         "en": "Interest Type",
+         "hi": "Interest Type"
+         },
+        "rate": {
+         "en":"Fixed",
+         "hi":"Fixed"
+        }
+      },
+      {
+        "charges": {
+         "en": "Periodicity of Interest Compounding",
+         "hi": "Periodicity of Interest Compounding"
+        },
+        "rate": {
+         "en": "Monthly",
+         "hi": "Monthly"
+        }
+      },
+      {
+        "charges": {
+         "en": "Repayment frequency by the borrower",
+         "hi": "Repayment frequency by the borrower"
+        },
+        "rate": {
+         "en": "Monthly",
+         "hi": "Monthly"
+        }
+      },
+      {
+        "charges": {
+         "en": "Processing Fees",
+         "hi": "Processing Fees"
+        },
+        "rate": {
+         "en": "2% on Loan Amount + 18% GST",
+         "hi": "2% on Loan Amount + 18% GST"
+        }
+      },
+      {
+        "charges": {
+         "en": "Stamp Duty",
+         "hi": "Stamp Duty"
+        },
+        "rate": {
+         "en": "As per Maharashtra's Stamp Duty Act",
+         "hi": "As per Maharashtra's Stamp Duty Act"
+         }
+      },
+      {
+        "charges": {
+         "en": "Penal interest (per annum)",
+         "hi": "Penal interest (per annum)"
+        },
+        "rate": {
+         "en": "24% p.a.",
+         "hi": "24% p.a."
+         }
+      },
+      {
+        "charges": {
+         "en": "Foreclosure charges",
+         "hi": "Foreclosure charges"
+        },
+        "rate": {
+         "en": "4% on Principal Outstanding",
+         "hi": "4% on Principal Outstanding"
+         }
+      },
+      {
+        "charges": {
+         "en": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan",
+         "hi": "Cooling off/look-up period during which borrower shall not be charged any penalty on prepayment of loan"
+        },
+        "rate": {
+         "en": "Upto 3 days from Disbursement Date of Loan",
+         "hi": "Upto 3 days from Disbursement Date of Loan"
+         }
+      },
+      {
+        "charges": {
+         "en": "APR* (will change w.r.t loan amount)",
+         "hi": "APR* (will change w.r.t loan amount)"
+        },
+        "rate": {
+         "en": "33%",
+         "hi": "33%"
+        }
+      },
+      {
+        "charges": {
+         "en": "Name, designation, address and phone number of nodal grievance redressal officer designated specifically to deal with FinTech/ digital lending related complaints/ issues",
+         "hi": "Name, designation, address and phone number of nodal grievance redressal officer designated specifically to deal with FinTech/ digital lending related complaints/ issues"
+        },
+        "rate": {
+         "en": "First Level - Nodal Officer (nodal.officer@axisbank.com) Second Level - Principal Nodal Officer (PNO@axisbank.com) Contact no – 1800 419 0068",
+         "hi": "First Level - Nodal Officer (nodal.officer@axisbank.com) Second Level - Principal Nodal Officer (PNO@axisbank.com) Contact no – 1800 419 0068"
+        }
       }
+    ]
    }
 }
