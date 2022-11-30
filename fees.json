@@ -68,6 +68,42 @@
                   "hi": "कोई न्यूनतम शेषराशि की आवश्यकता नहीं है"
                },
                "image": "mobile/images/mca/v2/benefits_balance_account.png"
+            },
+            {
+               "id": "4",
+               "title": {
+                  "en": "Zero Collateral",
+                  "hi": "शून्य गिरवी"
+               },
+               "description": {
+                  "en": "No collateral required",
+                  "hi": "गिरवी की आवश्यकता नहीं है"
+               },
+               "image": "mobile/images/mca/v2/benefits_balance_account.png"
+            },
+            {
+               "id": "5",
+               "title": {
+                  "en": "Easy Application Process",
+                  "hi": "आसान आवेदन प्रक्रिया"
+               },
+               "description": {
+                  "en": "KYC verification with Pan & Aadhaar",
+                  "hi": "पैन और आधार के साथ केवाईसी सत्यापन"
+               },
+               "image": "mobile/images/mca/v2/benefits_balance_account.png"
+            },
+            {
+               "id": "6",
+               "title": {
+                  "en": "Flexible Tenure",
+                  "hi": "अनुकूलित कार्यकाल"
+               },
+               "description": {
+                  "en": "6, 9 & 12 months",
+                  "hi": "6, 9 और 12 महीने"
+               },
+               "image": "mobile/images/mca/v2/benefits_balance_account.png"
             }
          ]
       },
