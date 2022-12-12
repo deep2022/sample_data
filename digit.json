@@ -23,17 +23,17 @@
     "property": [
       {
         "infoIcon": "https://deep2022.github.io/sample_data/info.png",
-        "image": 'https://deep2022.github.io/sample_data/building.png',
-        title:'Buildings and Structures'
+        "image": "https://deep2022.github.io/sample_data/building.png",
+        title:"Buildings and Structures"
       }, 
       {
           "infoIcon": "https://deep2022.github.io/sample_data/info.png",
-          "image": 'https://deep2022.github.io/sample_data/machinery.png',
-          title:'Plant and Machinery'
+          "image": "https://deep2022.github.io/sample_data/machinery.png",
+          title:"Plant and Machinery"
       },
       {   "infoIcon": "https://deep2022.github.io/sample_data/info.png",
-          "image": 'https://deep2022.github.io/sample_data/stocks.png',
-          title: 'Stock of Goods or Merchandise'
+          "image": "https://deep2022.github.io/sample_data/stocks.png",
+          title: "Stock of Goods or Merchandise"
       }
     ],
     "highlights": [
@@ -68,65 +68,65 @@
     ],
     "helpMenu": [
       {
-          "image": 'https://deep2022.github.io/sample_data/faq.png',
+          "image": "https://deep2022.github.io/sample_data/faq.png",
           title: "Frequently Asked Questions"
       },
       {
-          "image": 'https://deep2022.github.io/sample_data/support.png',
+          "image": "https://deep2022.github.io/sample_data/support.png",
           "title": "Contact Us"
       }
     ],
     "coveredNotCovered": {
         "covered": [
             {
-                "name": 'Damages due to fire',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+                "name": "Damages due to fire",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": 'Explosion or implosion',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+                "name": "Explosion or implosion",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": 'Impact damage',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+                "name": "Impact damage",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": 'Earthquake, volcanic eruption, or other like convulsions of nature',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+                "name": "Earthquake, volcanic eruption, or other like convulsions of nature",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": 'Theft',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+                "name": "Theft",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": 'Damages due to fire',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+                "name": "Damages due to fire",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             }
         ],
         "notCovered": [
             {
-                "name": 'Damages due to fire',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+                "name": "Damages due to fire",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
+            },
+            {
+                "name": "Damages due to fire",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
+            },
+            {
+                "name": "Damages due to fire",
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
                 "name": 'Damages due to fire',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png'
             },
             {
-                "name": 'Damages due to fire',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+                "name": "Damages due to fire",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": 'Damages due to fire',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
-            },
-            {
-                "name": 'Damages due to fire',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
-            },
-            {
-                "name": 'Damages due to fire',
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+                "name": "Damages due to fire",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             }
         ]
     }
