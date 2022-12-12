@@ -24,16 +24,16 @@
       {
         "infoIcon": "https://deep2022.github.io/sample_data/info.png",
         "image": "https://deep2022.github.io/sample_data/building.png",
-        title:"Buildings and Structures"
+        "title": "Buildings and Structures"
       }, 
       {
           "infoIcon": "https://deep2022.github.io/sample_data/info.png",
           "image": "https://deep2022.github.io/sample_data/machinery.png",
-          title:"Plant and Machinery"
+          "title": "Plant and Machinery"
       },
       {   "infoIcon": "https://deep2022.github.io/sample_data/info.png",
           "image": "https://deep2022.github.io/sample_data/stocks.png",
-          title: "Stock of Goods or Merchandise"
+          "title": "Stock of Goods or Merchandise"
       }
     ],
     "highlights": [
@@ -69,7 +69,7 @@
     "helpMenu": [
       {
           "image": "https://deep2022.github.io/sample_data/faq.png",
-          title: "Frequently Asked Questions"
+          "title": "Frequently Asked Questions"
       },
       {
           "image": "https://deep2022.github.io/sample_data/support.png",
