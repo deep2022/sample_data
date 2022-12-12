@@ -114,11 +114,11 @@
             },
             {
                 "name": "Damages due to fire",
-                "image": 'https://deep2022.github.io/sample_data/checkmarks.png"
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": 'Damages due to fire',
-                "image": "https://deep2022.github.io/sample_data/checkmarks.png'
+                "name": "Damages due to fire",
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
                 "name": "Damages due to fire",
