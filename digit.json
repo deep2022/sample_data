@@ -1,1 +1,134 @@
-
+{
+  "data": {
+    "heading": {
+      "text1": "Introducing",
+      "digitImage": "https://deep2022.github.io/sample_data/digit.png",
+      "text2": "Micro Enterprise Insurance",
+      "subHeading": "Protect your business property under Bharat Sookshma Udyam Suraksha Policy"
+    },
+    "benefits": [
+      {
+        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "title": "Sum Insured up to ₹15 Lac"
+      },
+      {
+        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "title": "Quick Claim Process"
+      },
+      {
+        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "title": "Zero Documentation"
+      }
+    ],
+    "property": [
+      {
+        "infoIcon": "https://deep2022.github.io/sample_data/info.png",
+        "image": 'https://deep2022.github.io/sample_data/building.png',
+        title:'Buildings and Structures'
+      }, 
+      {
+          "infoIcon": "https://deep2022.github.io/sample_data/info.png",
+          "image": 'https://deep2022.github.io/sample_data/machinery.png',
+          title:'Plant and Machinery'
+      },
+      {   "infoIcon": "https://deep2022.github.io/sample_data/info.png",
+          "image": 'https://deep2022.github.io/sample_data/stocks.png',
+          title: 'Stock of Goods or Merchandise'
+      }
+    ],
+    "highlights": [
+      {
+        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "title": "Theft cover within 7 days of from occurence"
+      },
+      {
+        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "title": "Policy term up to 1 year"
+      },
+      {
+        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "title": "Automatic re-instatement of sum insured"
+      },
+      {
+        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "title": "Under insurance waiver up to 15% of sum insured"
+      },
+      {
+        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "title": "Inbuilt cover for damages caused by forest fire, EQ, terrorism & spontaneous combustion"
+      },
+      {
+        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "title": "No surveyor for claims up to ₹1 Lac"
+      },
+      {
+        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "title": "Video based inspection"
+      }
+    ],
+    "helpMenu": [
+      {
+          "image": 'https://deep2022.github.io/sample_data/faq.png',
+          title: "Frequently Asked Questions"
+      },
+      {
+          "image": 'https://deep2022.github.io/sample_data/support.png',
+          "title": "Contact Us"
+      }
+    ],
+    "coveredNotCovered": {
+        "covered": [
+            {
+                "name": 'Damages due to fire',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            },
+            {
+                "name": 'Explosion or implosion',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            },
+            {
+                "name": 'Impact damage',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            },
+            {
+                "name": 'Earthquake, volcanic eruption, or other like convulsions of nature',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            },
+            {
+                "name": 'Theft',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            },
+            {
+                "name": 'Damages due to fire',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            }
+        ],
+        "notCovered": [
+            {
+                "name": 'Damages due to fire',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            },
+            {
+                "name": 'Damages due to fire',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            },
+            {
+                "name": 'Damages due to fire',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            },
+            {
+                "name": 'Damages due to fire',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            },
+            {
+                "name": 'Damages due to fire',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            },
+            {
+                "name": 'Damages due to fire',
+                "image": 'https://deep2022.github.io/sample_data/checkmarks.png'
+            }
+        ]
+    }
+  }
+}
