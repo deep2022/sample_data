@@ -36,6 +36,7 @@
           "title": "Stock of Goods or Merchandise"
       }
     ],
+    "shopImage": "https://deep2022.github.io/sample_data/shop.png"
     "highlights": [
       {
         "image": "https://deep2022.github.io/sample_data/chor.png",
