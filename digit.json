@@ -38,31 +38,27 @@
     ],
     "highlights": [
       {
-        "image": "https://deep2022.github.io/sample_data/checkbox.png",
-        "title": "Theft cover within 7 days of from occurence"
+        "image": "https://deep2022.github.io/sample_data/chor.png",
+        "title": "Theft cover of any covered peril"
       },
       {
-        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "image": "https://deep2022.github.io/sample_data/term.png",
         "title": "Policy term up to 1 year"
       },
       {
-        "image": "https://deep2022.github.io/sample_data/checkbox.png",
-        "title": "Automatic re-instatement of sum insured"
+        "image": "https://deep2022.github.io/sample_data/re-instatement.png",
+        "title": "Auto re-instatement of sum insured"
       },
       {
-        "image": "https://deep2022.github.io/sample_data/checkbox.png",
-        "title": "Under insurance waiver up to 15% of sum insured"
+        "image": "https://deep2022.github.io/sample_data/claim.png",
+        "title": "No physical claims form"
       },
       {
-        "image": "https://deep2022.github.io/sample_data/checkbox.png",
-        "title": "Inbuilt cover for damages caused by forest fire, EQ, terrorism & spontaneous combustion"
+        "image": "https://deep2022.github.io/sample_data/video.png",
+        "title": "Video based inspection"
       },
       {
-        "image": "https://deep2022.github.io/sample_data/checkbox.png",
-        "title": "No surveyor for claims up to ₹1 Lac"
-      },
-      {
-        "image": "https://deep2022.github.io/sample_data/checkbox.png",
+        "image": "https://deep2022.github.io/sample_data/video.png",
         "title": "Video based inspection"
       }
     ],
