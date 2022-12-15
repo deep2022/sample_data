@@ -66,11 +66,12 @@
     "helpMenu": [
       {
           "image": "https://deep2022.github.io/sample_data/faq.png",
-          "title": "Frequently Asked Questions"
+          "title": "Frequently Asked Questions",
+          "screenName": "FAQScreen"
       },
       {
           "image": "https://deep2022.github.io/sample_data/support.png",
-          "title": "Contact Us"
+          "title": "ContactSupport"
       }
     ],
     "coveredNotCovered": {
