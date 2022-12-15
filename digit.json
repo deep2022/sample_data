@@ -71,7 +71,8 @@
       },
       {
           "image": "https://deep2022.github.io/sample_data/support.png",
-          "title": "ContactSupport"
+          "title": "Contact Support",
+          "screenName": "ContactSupport"
       }
     ],
     "coveredNotCovered": {
