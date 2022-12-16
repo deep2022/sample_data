@@ -1,130 +1,244 @@
 {
   "data": {
     "heading": {
-      "text1": "Introducing",
+      "text1": {
+        "en": "Introducing",
+        "hi": "पेश करते हैं"
+      },
       "digitImage": "https://deep2022.github.io/sample_data/digit.png",
-      "text2": "Micro Enterprise Insurance",
-      "subHeading": "Protect your business property under Bharat Sookshma Udyam Suraksha Policy"
+      "text2": {
+        "en": "Micro Enterprise Insurance",
+        "hi": "सूक्ष्म उद्यम बीमा"
+      },
+      "subHeading": {
+      "en": "Protect your business property under Bharat Sookshma Udyam Suraksha Policy",
+      "hi": "भारत सूक्ष्म उद्यम सुरक्षा नीति के तहत अपनी व्यावसायिक संपत्ति को सुरक्षित रखें"
+    }
     },
     "benefits": [
       {
         "image": "https://deep2022.github.io/sample_data/checkbox.png",
-        "title": "Sum Insured up to ₹15 Lac"
+        "title": {
+          "en": "Sum Insured up to ₹15 lakh",
+          "hi": "बीमा राशि ₹15 लाख तक"
       },
       {
         "image": "https://deep2022.github.io/sample_data/checkbox.png",
-        "title": "Quick Claim Process"
+        "title": {
+          "en": "Quick Claim Process",
+          "hi": "त्वरित दावा प्रक्रिया"
+        }
       },
       {
         "image": "https://deep2022.github.io/sample_data/checkbox.png",
-        "title": "Zero Documentation"
+        "title": {
+          "en": "Zero Documentation",
+          "hi": "शून्य दस्तावेज़"
+        }
       }
     ],
     "property": [
       {
         "infoIcon": "https://deep2022.github.io/sample_data/info.png",
         "image": "https://deep2022.github.io/sample_data/building.png",
-        "title": "Buildings and Structures"
+        "title": {
+          "en": "Buildings and Structures",
+          "hi": "इमारतें और संरचनाएं"
+        }
       }, 
       {
           "infoIcon": "https://deep2022.github.io/sample_data/info.png",
           "image": "https://deep2022.github.io/sample_data/machinery.png",
-          "title": "Plant and Machinery"
+          "title": {
+          "en": "Plant and Machinery",
+          "hi": "कार्यशाला एवं यंत्र"
+          }
       },
       {   "infoIcon": "https://deep2022.github.io/sample_data/info.png",
           "image": "https://deep2022.github.io/sample_data/stocks.png",
-          "title": "Stock of Goods or Merchandise"
+          "title": {
+          "en": "Stock of Goods or Merchandise",
+          "hi": "माल या पण्य वस्तु का स्टॉक"
+          }
       }
     ],
     "shopImage": "https://deep2022.github.io/sample_data/shop.png",
     "highlights": [
       {
         "image": "https://deep2022.github.io/sample_data/chor.png",
-        "title": "Theft cover of any covered peril"
+        "title": {
+          "en": "Theft cover of any covered peril",
+          "hi": "किसी भी कवर किए गए जोखिम का चोरी कवर"
+        }
       },
       {
         "image": "https://deep2022.github.io/sample_data/term.png",
-        "title": "Policy term up to 1 year"
+        "title": {
+          "en": "Policy term up to 1 year",
+          "hi": "1 वर्ष तक की पॉलिसी अवधि"
+        }
       },
       {
         "image": "https://deep2022.github.io/sample_data/re-instatement.png",
-        "title": "Auto re-instatement of sum insured"
+        "title": {
+          "en": "Auto re-instatement of sum insured",
+          "hi": "बीमित राशि का स्वत: पुनर्स्थापन"
+        }
       },
       {
         "image": "https://deep2022.github.io/sample_data/claim.png",
-        "title": "No physical claims form"
+        "title": {
+          "en": "No physical claims form",
+          "hi": "कोई भौतिक दावा प्रपत्र नहीं"
+        }
       },
       {
         "image": "https://deep2022.github.io/sample_data/video.png",
-        "title": "Video based inspection"
+        "title": {
+          "en": "Video based inspection",
+          "hi": "वीडियो आधारित निरीक्षण"
+        }
       },
       {
         "image": "https://deep2022.github.io/sample_data/video.png",
-        "title": "Video based inspection"
+        "title": {
+          "en": "Underinsurance waiver upto 15% of Sum Insured",
+          "hi": "बीमित राशि के 15% तक कम बीमा छूट"
+        }
+      },
+      {
+        "image": "https://deep2022.github.io/sample_data/video.png",
+        "title": {
+          "en": "No Surveyor for claims upto INR 1 Lac",
+          "hi": "₹ 1 लाख तक के दावों के लिए कोई सर्वेयर नहीं"
+        }
       }
     ],
     "helpMenu": [
       {
           "image": "https://deep2022.github.io/sample_data/faq.png",
-          "title": "Frequently Asked Questions",
+          "title": {
+          "en": "Frequently Asked Questions",
+          "hi": "अधिकतर पूछे जाने वाले सवाल"
+          },
           "screenName": "FAQScreen"
       },
       {
           "image": "https://deep2022.github.io/sample_data/support.png",
-          "title": "Contact Support",
+          "title": {
+          "en": "Contact Support",
+          "hi": "सहयोग टीम से संपर्क करें"
+          },
           "screenName": "ContactSupport"
       }
     ],
     "coveredNotCovered": {
         "covered": [
             {
-                "name": "Damages due to fire",
+                "name": {
+                  "en": "Cyclones, Hurricanes, Tsunami, Floods",
+                  "hi": "चक्रवात, तूफान, सुनामी, बाढ़"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": "Explosion or implosion",
+                "name": {
+                  "en": "Forest Fires",
+                  "hi": "जंगल की आग",
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": "Impact damage",
+                "name": {
+                  "en": "Landslides & Rockslides",
+                  "hi": "भूस्खलन और रॉकस्लाइड"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": "Earthquake, volcanic eruption, or other like convulsions of nature",
+                "name": {
+                  "en": "Riots and Strikes",
+                  "hi": "दंगे और हड़तालें"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": "Theft",
+                "name": {
+                  "en":"Terrorism",
+                  "hi": "आतंकवाद"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": "Damages due to fire",
+                "name": {
+                  "en":"Stock on floater basis",
+                  "hi": "फ्लोटर आधार पर स्टॉक"
+                },
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
+            },
+            {
+                "name": {
+                  "en":"Temporary removal of stocks",
+                  "hi": "स्टॉक का अस्थायी निष्कासन"
+                },
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
+            },
+            {
+                "name": {
+                  "en":"Cover for specific contents",
+                  "hi": "विशिष्ट सामग्री के लिए कवर"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             }
         ],
         "notCovered": [
             {
-                "name": "Damages due to fire",
+                "name": {
+                  "en": "Deliberate/ Intentional Acts",
+                  "hi": "जानबूझकर/ इरादा कार्रवाई"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": "Damages due to fire",
+                "name": {
+                  "en": "War or Invasion",
+                  "hi": "युद्ध या आक्रमण"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": "Damages due to fire",
+                "name": {
+                  "en": "Pollution/ Contamination",
+                  "hi": "प्रदूषण/ संदूषण"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": "Damages due to fire",
+                "name": {
+                  "en": "Damage to stock in cold storage due to temperature change",
+                  "hi": "तापमान परिवर्तन के कारण कोल्ड स्टोरेज में स्टॉक को नुकसान"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": "Damages due to fire",
+                "name": {
+                  "en": "Ionizing Radiation",
+                  "hi": "आयनीकरण विकिरण"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             },
             {
-                "name": "Damages due to fire",
+                "name": {
+                  "en": "Missing/ Mislaid Property",
+                  "hi": "लापता/गलत संपत्ति"
+                },
+                "image": "https://deep2022.github.io/sample_data/checkmarks.png"
+            },
+            {
+                "name": {
+                  "en": "Other exclusions",
+                  "hi": "अन्य बहिष्करण"
+                },
                 "image": "https://deep2022.github.io/sample_data/checkmarks.png"
             }
         ]
