@@ -102,14 +102,14 @@
 				}
 			},
 			{
-				"image": "https://deep2022.github.io/sample_data/video.png",
+				"image": "https://deep2022.github.io/sample_data/under_insurance.png",
 				"title": {
 					"en": "Underinsurance waiver upto 15% of Sum Insured",
 					"hi": "बीमित राशि के 15% तक कम बीमा छूट"
 				}
 			},
 			{
-				"image": "https://deep2022.github.io/sample_data/video.png",
+				"image": "https://deep2022.github.io/sample_data/no_surveyer.png",
 				"title": {
 					"en": "No Surveyor for claims upto INR 1 Lac",
 					"hi": "₹ 1 लाख तक के दावों के लिए कोई सर्वेयर नहीं"
@@ -199,49 +199,49 @@
 						"en": "Deliberate/ Intentional Acts",
 						"hi": "जानबूझकर/ इरादा कार्रवाई"
 					},
-					"image": "https://deep2022.github.io/sample_data/checkmarks.png"
+					"image": "https://deep2022.github.io/sample_data/close.png"
 				},
 				{
 					"name": {
 						"en": "War or Invasion",
 						"hi": "युद्ध या आक्रमण"
 					},
-					"image": "https://deep2022.github.io/sample_data/checkmarks.png"
+					"image": "https://deep2022.github.io/sample_data/close.png"
 				},
 				{
 					"name": {
 						"en": "Pollution/ Contamination",
 						"hi": "प्रदूषण/ संदूषण"
 					},
-					"image": "https://deep2022.github.io/sample_data/checkmarks.png"
+					"image": "https://deep2022.github.io/sample_data/close.png"
 				},
 				{
 					"name": {
 						"en": "Damage to stock in cold storage due to temperature change",
 						"hi": "तापमान परिवर्तन के कारण कोल्ड स्टोरेज में स्टॉक को नुकसान"
 					},
-					"image": "https://deep2022.github.io/sample_data/checkmarks.png"
+					"image": "https://deep2022.github.io/sample_data/close.png"
 				},
 				{
 					"name": {
 						"en": "Ionizing Radiation",
 						"hi": "आयनीकरण विकिरण"
 					},
-					"image": "https://deep2022.github.io/sample_data/checkmarks.png"
+					"image": "https://deep2022.github.io/sample_data/close.png"
 				},
 				{
 					"name": {
 						"en": "Missing/ Mislaid Property",
 						"hi": "लापता/गलत संपत्ति"
 					},
-					"image": "https://deep2022.github.io/sample_data/checkmarks.png"
+					"image": "https://deep2022.github.io/sample_data/close.png"
 				},
 				{
 					"name": {
 						"en": "Other exclusions",
 						"hi": "अन्य बहिष्करण"
 					},
-					"image": "https://deep2022.github.io/sample_data/checkmarks.png"
+					"image": "https://deep2022.github.io/sample_data/close.png"
 				}
 			]
 		}
